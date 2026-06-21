@@ -251,22 +251,22 @@ O sistema automatiza etapas de triagem documental, reduzindo atividades manuais,
 
 ---
 
-### 🌎 Sistema IoT de Monitoramento Ambiental com ESP32
+### 🌎 [Sistema IoT de Monitoramento Ambiental com ESP32](https://github.com/sandrozdb/sistema-iot-monitoramento-ambiental-esp32)
 
-Desenvolvimento de uma solução IoT baseada em ESP32 para monitoramento ambiental em tempo real, integrando sensores para coleta de dados de temperatura, umidade, luminosidade e outras variáveis ambientais.
+Desenvolvimento de uma solução IoT baseada em ESP32 para monitoramento ambiental em tempo real, integrando sensores para coleta de dados de temperatura, umidade, luminosidade, qualidade do ar e outras variáveis ambientais.
 
-Os dados coletados são processados pelo microcontrolador e enviados para plataforma em nuvem, permitindo visualização, acompanhamento remoto e análise contínua das informações.
+Os dados coletados são processados pelo microcontrolador e enviados para a plataforma ThingSpeak, permitindo visualização, acompanhamento remoto e análise contínua das informações.
 
 **Tecnologias utilizadas:**
 
-* ESP32
-* C++
-* Sensores
-* IoT
-* ThingSpeak
-* Wokwi
-* Tinkercad
-* Sistemas Embarcados
+- ESP32
+- C++
+- Sensores
+- IoT
+- ThingSpeak
+- Wokwi
+- Tinkercad
+- Sistemas Embarcados
 
 ---
 
