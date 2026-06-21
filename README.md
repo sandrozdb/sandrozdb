@@ -3,9 +3,13 @@
 ## 🚀 Computer Engineering | AI & Automation | Data | Cybersecurity | IoT | Infrastructure
 
 🎓 Estudante de Engenharia da Computação — 5º Semestre
+
 🤖 Estudante de Inteligência Artificial e Automação Digital - 1 º Semestre
+
 🔧 Auxiliar de Manutenção de Infraestrutura Tecnológica na Sentran
+
 🎖️ Aspirante a Oficial da Arma de Comunicações do Exército Brasileiro
+
 📍 São Paulo, Brasil
 
 ---
@@ -54,7 +58,7 @@ Formação complementar com foco em inteligência artificial, automação de pro
 
 ## 💼 Experiência Técnica
 
-### 🔧 Sentran — Auxiliar de Manutenção
+### 🔧 Sentran — Auxiliar de Manutenção de Infraestrutura Tecnológica
 
 Atuação em empresa especializada em fiscalização eletrônica e monitoramento de trânsito, realizando manutenção preventiva e corretiva de equipamentos eletrônicos, radares e sistemas de monitoramento.
 
