@@ -233,9 +233,9 @@ Curso técnico voltado à segurança em atividades com eletricidade, instalaçõ
 
 ## 🚀 Projetos em Destaque
 
-### 📄 [Automação de Triagem de Notas Fiscais com n8n e OCR](https://github.com/sandrozdb/automacao-triagem-notas-fiscais-n8n-ocr)
+#### 📄 [Automação de Triagem de Notas Fiscais com n8n e OCR](https://github.com/sandrozdb/automacao-triagem-notas-fiscais-n8n-ocr)
 
-Desenvolvimento de uma solução de automação para leitura, extração e processamento de informações contidas em notas fiscais utilizando OCR e a plataforma n8n.
+Desenvolvimento de uma solução de automação para leitura, extração e processamento de informações contidas em notas fiscais utilizando OCR, Python, banco de dados e a plataforma n8n.
 
 O sistema automatiza etapas de triagem documental, reduzindo atividades manuais, aumentando a eficiência operacional e minimizando erros no processamento de documentos.
 
@@ -247,6 +247,7 @@ O sistema automatiza etapas de triagem documental, reduzindo atividades manuais,
 * Banco de Dados
 * Automação de Processos
 * Integração de Sistemas
+
 
 ---
 
