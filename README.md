@@ -2,9 +2,9 @@
 
 ## 🚀 Computer Engineering | AI & Automation | Data | Cybersecurity | IoT | Infrastructure
 
-🎓 Estudante de Engenharia da Computação — 5º semestre
-🤖 Estudante de Inteligência Artificial e Automação Digital
-🔧 Auxiliar de Manutenção na Sentran
+🎓 Estudante de Engenharia da Computação — 5º Semestre
+🤖 Estudante de Inteligência Artificial e Automação Digital - 1 º Semestre
+🔧 Auxiliar de Manutenção de Infraestrutura Tecnológica na Sentran
 🎖️ Aspirante a Oficial da Arma de Comunicações do Exército Brasileiro
 📍 São Paulo, Brasil
 
