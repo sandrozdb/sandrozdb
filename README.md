@@ -2,11 +2,12 @@
 
 ## 🚀 Computer Engineering | AI & Automation | Data | Cybersecurity | IoT | Infrastructure
 
-Estudante de Engenharia da Computação — 5º Semestre 
-Estudante de Inteligência Artificial e Automação Digital - 1 º Semestre
-Auxiliar de Manutenção de Infraestrutura Tecnológica na Sentran 
-Aspirante a Oficial da Arma de Comunicações do Exército Brasileiro 
-São Paulo, Brasil
+🎓 Estudante de Engenharia da Computação — 5º Semestre
+🤖 Estudante de Inteligência Artificial e Automação Digital - 1º Semestre
+🔧 Auxiliar de Manutenção de Infraestrutura Tecnológica na Sentran
+🎖️ Aspirante a Oficial da Arma de Comunicações do Exército Brasileiro
+📍 São Paulo, Brasil
+
 
 ---
 
@@ -24,7 +25,7 @@ São Paulo, Brasil
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge\&logo=espressif\&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00A8E8?style=for-the-badge\&logo=internetofthings\&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E3440?style=for-the-badge\&logo=protonvpn\&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E3440?style=for-the-badge&logo=protonvpn&logoColor=white)
 
 ---
 
