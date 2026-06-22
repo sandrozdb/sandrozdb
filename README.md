@@ -270,20 +270,25 @@ Os dados coletados são processados pelo microcontrolador e enviados para a plat
 
 ---
 
-### 🏙️ LeanCity — Sistema de Eficiência Energética com IoT
+### 🏙️ [LeanCity — Sistema de Eficiência Energética com IoT](https://github.com/sandrozdb/leancity-smart-energy-iot-platform)
 
-Desenvolvimento de um protótipo de cidade inteligente baseado em Internet das Coisas e eficiência energética.
+Desenvolvimento de um protótipo de cidade inteligente baseado em conceitos de Internet das Coisas, automação e eficiência energética.
 
-O sistema utiliza sensores para monitoramento de presença, temperatura e consumo energético, permitindo o acionamento inteligente de dispositivos e a otimização do uso de recursos.
+O sistema utiliza sensores para monitoramento de presença, luminosidade, temperatura e consumo energético, permitindo o acionamento inteligente de dispositivos e a otimização do uso de recursos.
+
+Projeto aplicado aos conceitos de cidades inteligentes, automação, monitoramento de dados, sustentabilidade tecnológica e redução de desperdício de energia.
 
 **Tecnologias utilizadas:**
 
 * Internet das Coisas
 * Sensores
 * Automação
-* Monitoramento em tempo real
-* Análise de dados
-* Sustentabilidade tecnológica
+* Sistemas Embarcados
+* C++
+* ESP32
+* Eficiência Energética
+* Sustentabilidade Tecnológica
+* Smart Cities
 
 ---
 
