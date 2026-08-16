@@ -50,13 +50,6 @@ Protótipo de cidade inteligente que utiliza sensores e automação para identif
 - Python Essentials 1 e 2
 - Linux Essentials e CCNAv7
 
-## Estatísticas
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sandrozdb&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrozdb&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas">
-</p>
-
 ## Contato
 
 - [LinkedIn](https://linkedin.com/in/sandrozdb)
