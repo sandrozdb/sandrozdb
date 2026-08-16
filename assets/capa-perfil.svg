@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Sandro Ferreira</title>
+  <desc id="desc">Consultoria, dados, inteligência artificial e automação</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c1b33"/><stop offset="1" stop-color="#155e75"/></linearGradient></defs>
+  <rect width="1280" height="360" rx="28" fill="url(#g)"/>
+  <circle cx="1120" cy="280" r="220" fill="#22d3ee" opacity=".12"/><circle cx="1170" cy="30" r="120" fill="#a3e635" opacity=".10"/>
+  <text x="70" y="105" fill="#67e8f9" font-family="Arial, sans-serif" font-size="24" font-weight="700">CONSULTORIA • DADOS • IA • AUTOMAÇÃO</text>
+  <text x="70" y="180" fill="white" font-family="Arial, sans-serif" font-size="50" font-weight="700">Sandro Ferreira</text>
+  <text x="70" y="235" fill="#dbeafe" font-family="Arial, sans-serif" font-size="28">Tecnologia aplicada a problemas reais de negócio</text>
+  <rect x="70" y="275" width="150" height="42" rx="21" fill="#0369a1"/><text x="92" y="303" fill="white" font-family="Arial" font-size="19" font-weight="700">Consultoria</text>
+  <rect x="235" y="275" width="105" height="42" rx="21" fill="#0891b2"/><text x="262" y="303" fill="white" font-family="Arial" font-size="19" font-weight="700">Dados</text>
+  <rect x="355" y="275" width="185" height="42" rx="21" fill="#65a30d"/><text x="378" y="303" fill="white" font-family="Arial" font-size="19" font-weight="700">IA &amp; Automação</text>
+</svg>

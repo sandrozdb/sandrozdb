@@ -1,8 +1,10 @@
+<p align="center"><img src="assets/capa-perfil.svg" alt="Sandro Ferreira — consultoria, dados, IA e automação" width="100%"></p>
+
 # Olá, eu sou Sandro Ferreira 👋
 
 Estudante de **Engenharia da Computação** e **Inteligência Artificial e Automação Digital**, com interesse em usar IA, dados e automação para resolver problemas reais de negócio.
 
-Em setembro de 2026, inicio como **Estagiário de Consultoria na Elo**, pelo Programa Conecta Aí — Trilha de Dados. Meu objetivo é desenvolver soluções que combinem análise, tecnologia e comunicação executiva, sem limitar minha carreira apenas à programação.
+Em setembro de 2026, inicio como **Estagiário de Consultoria na Elo**, pelo Programa Conecta Aí — Trilha de Dados. Meu objetivo é atuar na interseção entre consultoria, dados, inteligência artificial e automação, transformando problemas de negócio em soluções práticas.
 
 ## O que estou construindo
 
@@ -22,11 +24,11 @@ Plataforma web que transforma informações profissionais em diagnóstico, recom
 
 ### [Automação de notas fiscais com n8n e OCR](https://github.com/sandrozdb/automacao-triagem-notas-fiscais-n8n-ocr)
 
-Pipeline de automação documental com OCR, Python, regras de validação, workflow importável e persistência estruturada.
+Simulação demonstrativa de triagem documental no n8n, com dados fictícios representando OCR, validação, armazenamento e notificações. Inclui módulos Python e estrutura SQL para evolução do protótipo.
 
 ### [Monitoramento ambiental com ESP32](https://github.com/sandrozdb/sistema-iot-monitoramento-ambiental-esp32)
 
-Sistema IoT que coleta variáveis ambientais, aciona alertas e envia dados para acompanhamento no ThingSpeak.
+Simulação de monitoramento ambiental no Wokwi, com ESP32, entradas analógicas, alertas locais e canal configurado no ThingSpeak.
 
 ### [LeanCity — eficiência energética com IoT](https://github.com/sandrozdb/leancity-smart-energy-iot-platform)
 
