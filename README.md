@@ -40,7 +40,7 @@ Aplicação desktop em Python e MySQL para organizar clientes, profissionais, se
 
 ### [Ecologic PC — Virtualização e Segurança](https://github.com/sandrozdb/ecologic-pc-virtualizacao-seguranca)
 
-Projeto de casemod que integrou reaproveitamento de hardware, máquinas virtuais, redes e práticas de segurança em ambiente controlado.
+Casemod sustentável com gabinete construído em madeira e decoração inspirada em plantas, integrando reaproveitamento de hardware, virtualização, redes e segurança.
 
 ### [Infraestrutura de Rede Virtualizada em Cloud](https://github.com/sandrozdb/infraestrutura-rede-virtualizada-cloud)
 
