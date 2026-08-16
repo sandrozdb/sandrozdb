@@ -12,7 +12,7 @@ Em setembro de 2026, inicio como **Estagiário de Consultoria na Elo**, pelo Pro
 - análises de dados com SQL, Excel e Power BI;
 - aplicações de IA e agentes voltados a processos de negócio;
 - soluções IoT com ESP32, sensores e plataformas em nuvem;
-- projetos documentados como estudos de caso: problema, solução, arquitetura e impacto.
+- projetos estruturados a partir de problemas, soluções, arquiteturas e resultados.
 
 ## Projetos em destaque
 
@@ -34,12 +34,24 @@ Simulação de monitoramento ambiental no Wokwi, com ESP32, entradas analógicas
 
 Protótipo de cidade inteligente que utiliza sensores e automação para identificar desperdícios e apoiar eficiência energética.
 
+### [Sistema Inteligente de Gestão de Agendamentos](https://github.com/sandrozdb/sistema-inteligente-gestao-agendamentos)
+
+Aplicação desktop em Python e MySQL para organizar clientes, profissionais, serviços e horários, com validações e prevenção de conflitos na agenda.
+
+### [Ecologic PC — Virtualização e Segurança](https://github.com/sandrozdb/ecologic-pc-virtualizacao-seguranca)
+
+Projeto de casemod que integrou reaproveitamento de hardware, máquinas virtuais, redes e práticas de segurança em ambiente controlado.
+
+### [Infraestrutura de Rede Virtualizada em Cloud](https://github.com/sandrozdb/infraestrutura-rede-virtualizada-cloud)
+
+Projeto de infraestrutura tecnológica para integração de computadores por meio de servidor virtualizado, conectividade e administração de rede.
+
 ## Tecnologias e ferramentas
 
 **IA e automação:** n8n, agentes de IA, prompt engineering, OCR e APIs  
 **Dados:** SQL, MySQL, Excel, Power BI e Python  
 **Desenvolvimento:** Python, JavaScript, Java, C++ e Git  
-**Cloud e IoT:** ESP32, ThingSpeak, PlatformIO, redes e computação em nuvem
+**Cloud e IoT:** ESP32, ThingSpeak, PlatformIO, redes, virtualização e computação em nuvem
 
 ## Formação complementar
 
