@@ -45,6 +45,15 @@ Atualmente desenvolvo projetos envolvendo IA, IoT, Cloud Computing, automação 
 
 # 📌 Projetos em Destaque
 
+## 🎯 Vitrine de Carreira
+
+Plataforma web de diagnóstico e posicionamento profissional que transforma experiências reais em recomendações práticas para LinkedIn, comparação com vagas, networking e plano de evolução. Desenvolvida com **HTML, CSS e JavaScript**, com privacidade local e publicação automatizada no GitHub Pages.
+
+➡️ **[Acessar aplicação](https://sandrozdb.github.io/vitrine-de-carreira/)**  
+➡️ **[Ver código no GitHub](https://github.com/sandrozdb/vitrine-de-carreira)**
+
+---
+
 ## 📄 Automação de Triagem de Notas Fiscais com OCR e n8n
 
 Solução para automatizar a leitura e o processamento de notas fiscais utilizando **OCR, Python, SQL e n8n**, reduzindo atividades manuais e aumentando a eficiência operacional.
