@@ -4,7 +4,7 @@
 
 Estudante de **Engenharia da Computação** e **Inteligência Artificial e Automação Digital**, com interesse em usar IA, dados e automação para resolver problemas reais de negócio.
 
-Em setembro de 2026, inicio como **Estagiário de Consultoria na Elo**, pelo Programa Conecta Aí — Trilha de Dados. Meu objetivo é atuar na interseção entre consultoria, dados, inteligência artificial e automação, transformando problemas de negócio em soluções práticas.
+Em setembro de 2026, inicio como **Estagiário de Consultoria na Elo**. Meu objetivo é atuar na interseção entre consultoria, dados, inteligência artificial e automação, transformando problemas de negócio em soluções práticas.
 
 ## O que estou construindo
 
