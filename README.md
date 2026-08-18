@@ -24,15 +24,15 @@ Plataforma web que transforma informações profissionais em diagnóstico, recom
 
 ### [Automação de notas fiscais com n8n e OCR](https://github.com/sandrozdb/automacao-triagem-notas-fiscais-n8n-ocr)
 
-Simulação demonstrativa de triagem documental no n8n, com dados fictícios representando OCR, validação, armazenamento e notificações. Inclui módulos Python e estrutura SQL para evolução do protótipo.
+Pipeline de triagem documental estruturado no n8n, com dados fictícios representando OCR, validação, armazenamento e notificações. Inclui módulos em Python e estrutura SQL para evolução das integrações.
 
 ### [Monitoramento ambiental com ESP32](https://github.com/sandrozdb/sistema-iot-monitoramento-ambiental-esp32)
 
-Simulação de monitoramento ambiental no Wokwi, com ESP32, entradas analógicas, alertas locais e canal configurado no ThingSpeak.
+Sistema de monitoramento ambiental desenvolvido para ESP32 e validado no Wokwi, com entradas analógicas, alertas locais e canal configurado no ThingSpeak.
 
 ### [LeanCity — eficiência energética com IoT](https://github.com/sandrozdb/leancity-smart-energy-iot-platform)
 
-Protótipo de cidade inteligente que utiliza sensores e automação para identificar desperdícios e apoiar eficiência energética.
+Solução de cidade inteligente que utiliza sensores e automação para identificar desperdícios e apoiar a eficiência energética.
 
 ### [Sistema Inteligente de Gestão de Agendamentos](https://github.com/sandrozdb/sistema-inteligente-gestao-agendamentos)
 
