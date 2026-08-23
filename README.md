@@ -16,6 +16,16 @@ Em setembro de 2026, inicio como **Estagiário de Consultoria na Elo**. Meu obje
 
 ## Projetos em destaque
 
+### [LifeBox — Smart Organ Transport](https://github.com/sandrozdb/lifebox-smart-organ-transport) — Em desenvolvimento
+
+Plataforma acadêmica de IoT para monitoramento e rastreabilidade do transporte de órgãos, com telemetria simulada, alertas, otimização de rotas, dashboard web e arquitetura integrada a uma API REST.
+
+### [Portfólio Profissional — Sandro Ferreira](https://github.com/sandrozdb/portfolio-sandro-ferreira)
+
+Portfólio profissional desenvolvido com Next.js para reunir trajetória, projetos e competências em consultoria, inteligência artificial, dados, automação e tecnologia.
+
+[Visitar o portfólio](https://sandrozdb.com)
+
 ### [Vitrine de Carreira](https://github.com/sandrozdb/vitrine-de-carreira)
 
 Plataforma web que transforma informações profissionais em diagnóstico, recomendações para LinkedIn, comparação com vagas e plano de evolução.
