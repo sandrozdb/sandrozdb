@@ -20,6 +20,10 @@ Em setembro de 2026, inicio como **Estagiário de Consultoria na Elo**. Meu obje
 
 Plataforma acadêmica de IoT para monitoramento e rastreabilidade do transporte de órgãos, com telemetria simulada, alertas, otimização de rotas, dashboard web e arquitetura integrada a uma API REST.
 
+### [EasyFood — API de Restaurantes](https://github.com/sandrozdb/easyfood-api) — Em desenvolvimento
+
+Aplicação web para consulta e cadastro de restaurantes, com API REST em Node.js e Express, persistência em MySQL e acesso aos dados pelo Prisma ORM. O projeto registra sua evolução arquitetural por meio de ADRs, desde o armazenamento em memória até a adoção do banco de dados e do ORM.
+
 ### [Portfólio Profissional — Sandro Ferreira](https://github.com/sandrozdb/portfolio-sandro-ferreira)
 
 Portfólio profissional desenvolvido com Next.js para reunir trajetória, projetos e competências em consultoria, inteligência artificial, dados, automação e tecnologia.
@@ -60,7 +64,7 @@ Projeto de infraestrutura tecnológica para integração de computadores por mei
 
 **IA e automação:** n8n, agentes de IA, prompt engineering, OCR e APIs  
 **Dados:** SQL, MySQL, Excel, Power BI e Python  
-**Desenvolvimento:** Python, JavaScript, Java, C++ e Git  
+**Desenvolvimento:** Node.js, Express, Prisma ORM, Python, JavaScript, Java, C++ e Git  
 **Cloud e IoT:** ESP32, ThingSpeak, PlatformIO, redes, virtualização e computação em nuvem
 
 ## Formação complementar
