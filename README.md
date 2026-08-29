@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/capa-perfil-rounded-clean.png" alt="Sandro Ferreira — Consultoria, Dados, IA e Automação" width="100%">
+  <img src="assets/capa-perfil-fast.png" alt="Sandro Ferreira — Consultoria, Dados, IA e Automação" width="100%">
 </p>
 
 <p align="center">
