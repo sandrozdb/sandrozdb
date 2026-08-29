@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/capa-perfil.png" alt="Sandro Ferreira — Consultoria, Dados, IA e Automação" width="100%">
+  <img src="assets/capa-perfil.jpg" alt="Sandro Ferreira — Consultoria, Dados, IA e Automação" width="100%">
 </p>
 
 <p align="center">
@@ -38,10 +38,15 @@ Em setembro de 2026, inicio como **Estagiário de Consultoria na Elo**. Meu obje
 
 ## Outros projetos
 
+
 - **[LeanCity — Eficiência Energética com IoT](https://github.com/sandrozdb/leancity-smart-energy-iot-platform):** sensores e automação para identificar desperdícios e apoiar cidades mais eficientes.
+
 - **[Sistema Inteligente de Gestão de Agendamentos](https://github.com/sandrozdb/sistema-inteligente-gestao-agendamentos):** aplicação em Python e MySQL com validação de horários e prevenção de conflitos.
+
 - **[Ecologic PC — Virtualização e Segurança](https://github.com/sandrozdb/ecologic-pc-virtualizacao-seguranca):** reaproveitamento de hardware, virtualização, redes e segurança em um casemod sustentável.
+
 - **[Infraestrutura de Rede Virtualizada em Cloud](https://github.com/sandrozdb/infraestrutura-rede-virtualizada-cloud):** integração de computadores, servidor virtualizado, conectividade e administração de rede.
+
 - **[Portfólio Profissional](https://github.com/sandrozdb/portfolio-sandro-ferreira):** plataforma em Next.js que reúne minha trajetória, projetos e competências.
 
 ## Tecnologias e ferramentas
