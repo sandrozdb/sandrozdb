@@ -10,19 +10,22 @@
 
 ## Sobre mim
 
-Sou estudante de **Engenharia da Computação** e **Inteligência Artificial e Automação Digital**. Construo projetos que conectam tecnologia e negócio, principalmente nas áreas de **dados, IA, automação, IoT e transformação digital**.
+Sou estudante de **Engenharia da Computação** e **Inteligência Artificial e Automação Digital**, com foco em utilizar dados, automação e tecnologia para resolver problemas reais de negócio.
 
-Em setembro de 2026, inicio como **Estagiário de Consultoria | IA Aplicada, Agentes de IA e Dados na Elo**. As atividades previstas no estágio são **catalogar casos de uso de IA em projetos de consultoria, testar prompts e agentes para acelerar análises e aplicar IA em materiais e entregas reais do time**.
+Desenvolvo projetos que conectam **análise de dados, inteligência artificial, automação de processos e experiência do usuário**. Entre eles, estão soluções de monitoramento e eficiência operacional com IoT e cloud, automação de triagem de documentos e plataformas voltadas à análise de informações e apoio à tomada de decisão.
 
-Meu objetivo é transformar problemas reais em soluções práticas, mensuráveis e bem estruturadas — sem usar tecnologia só pela tecnologia.
+Também construí uma marca digital com mais de **100 mil seguidores**, utilizando dados de alcance, engajamento e retenção para orientar decisões de conteúdo e crescimento. Minha formação como **Aspirante a Oficial da Arma de Comunicações do Exército Brasileiro** fortaleceu competências como liderança, disciplina, comunicação, trabalho em equipe e tomada de decisão sob pressão.
 
-## Como penso e construo soluções
+## Experiência atual
 
-1. Entendo o problema, o contexto e quem é afetado.
-2. Analiso dados, restrições, riscos e hipóteses.
-3. Estruturo uma solução viável e automatizável.
-4. Valido com indicadores, testes e documentação.
-5. Comunico o resultado de forma clara para apoiar decisões.
+### Elo — Estagiário de Consultoria | IA Aplicada, Agentes de IA e Dados
+
+**Início previsto: setembro de 2026**
+
+Atividades previstas no contrato:
+- Catalogar casos de uso de IA em projetos de consultoria.
+- Testar prompts e agentes para acelerar análises.
+- Aplicar IA em materiais e entregas reais do time.
 
 ## Projetos em destaque
 
@@ -41,36 +44,34 @@ Meu objetivo é transformar problemas reais em soluções práticas, mensurávei
 ## Outros projetos
 
 - **[LeanCity — Eficiência Energética com IoT](https://github.com/sandrozdb/leancity-smart-energy-iot-platform):** sensores e automação para identificar desperdícios e apoiar cidades mais eficientes.
-
 - **[Sistema Inteligente de Gestão de Agendamentos](https://github.com/sandrozdb/sistema-inteligente-gestao-agendamentos):** aplicação em Python e MySQL com validação de horários e prevenção de conflitos.
-
 - **[Ecologic PC — Virtualização e Segurança](https://github.com/sandrozdb/ecologic-pc-virtualizacao-seguranca):** reaproveitamento de hardware, virtualização, redes e segurança em um casemod sustentável.
-
 - **[Infraestrutura de Rede Virtualizada em Cloud](https://github.com/sandrozdb/infraestrutura-rede-virtualizada-cloud):** integração de computadores, servidor virtualizado, conectividade e administração de rede.
-
 - **[Portfólio Profissional](https://github.com/sandrozdb/portfolio-sandro-ferreira):** plataforma em Next.js que reúne minha trajetória, projetos e competências.
 
 ## Tecnologias e ferramentas
 
 | Área | Tecnologias |
 |---|---|
-| **Dados e análise** | SQL, MySQL, Excel, Power BI, Python |
-| **IA e automação** | n8n, agentes de IA, OCR, APIs, prompt engineering |
+| **Dados e análise** | Python, SQL, MySQL, Excel, Power BI |
+| **IA e automação** | IA generativa, LLMs, agentes de IA, prompt engineering, n8n, OCR, APIs |
 | **Desenvolvimento** | Node.js, Express, Prisma ORM, JavaScript, Java, C++ |
-| **Cloud, IoT e infraestrutura** | ESP32, ThingSpeak, PlatformIO, redes, virtualização, cloud |
+| **Cloud, IoT e infraestrutura** | OCI/Cloud, ESP32, ThingSpeak, redes TCP/IP, virtualização |
 | **Métodos e qualidade** | Git, GitHub Actions, testes automatizados, documentação, ADRs |
 
 ## Formação complementar
 
-- Oracle OCI AI Foundations
-- Cisco Data Analytics Essentials e Data Science Essentials
+- Oracle OCI 2026 AI Foundations Associate
+- Cisco Data Science Essentials with Python
+- Cisco Data Analytics Essentials
 - Cisco Introduction to Modern AI
 - Python Essentials 1 e 2
-- Linux Essentials e CCNAv7
+- Linux Essentials
+- CCNAv7 Introduction to Networks
 
 ## Vamos conversar?
 
-Tenho interesse em **consultoria, inteligência artificial aplicada a negócios, automação e análise de dados**.
+Direciono minha carreira para **consultoria, inteligência artificial, automação e dados**, conectando tecnologia a problemas reais de negócio.
 
 <p align="center">
   <a href="https://linkedin.com/in/sandrozdb">LinkedIn</a> •
