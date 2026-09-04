@@ -12,7 +12,9 @@
 
 Sou estudante de **Engenharia da Computação** e **Inteligência Artificial e Automação Digital**. Construo projetos que conectam tecnologia e negócio, principalmente nas áreas de **dados, IA, automação, IoT e transformação digital**.
 
-Em setembro de 2026, inicio como **Estagiário de Consultoria na Elo**. Meu objetivo é transformar problemas reais em soluções práticas, mensuráveis e bem estruturadas — sem usar tecnologia só pela tecnologia.
+Em setembro de 2026, inicio como **Estagiário de Consultoria | IA Aplicada, Agentes de IA e Dados na Elo**. As atividades previstas no estágio são **catalogar casos de uso de IA em projetos de consultoria, testar prompts e agentes para acelerar análises e aplicar IA em materiais e entregas reais do time**.
+
+Meu objetivo é transformar problemas reais em soluções práticas, mensuráveis e bem estruturadas — sem usar tecnologia só pela tecnologia.
 
 ## Como penso e construo soluções
 
@@ -37,7 +39,6 @@ Em setembro de 2026, inicio como **Estagiário de Consultoria na Elo**. Meu obje
 </p>
 
 ## Outros projetos
-
 
 - **[LeanCity — Eficiência Energética com IoT](https://github.com/sandrozdb/leancity-smart-energy-iot-platform):** sensores e automação para identificar desperdícios e apoiar cidades mais eficientes.
 
