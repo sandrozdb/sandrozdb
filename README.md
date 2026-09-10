@@ -12,7 +12,7 @@
 
 Sou estudante de **Engenharia da Computação** e **Inteligência Artificial e Automação Digital**, com foco em utilizar dados, automação e tecnologia para resolver problemas reais de negócio.
 
-Desenvolvo projetos que conectam **análise de dados, inteligência artificial, automação de processos e experiência do usuário**. Entre eles, estão soluções de monitoramento e eficiência operacional com IoT e cloud, automação de triagem de documentos e plataformas voltadas à análise de informações e apoio à tomada de decisão.
+Desenvolvo projetos que conectam **análise de dados, inteligência artificial, automação de processos e experiência do usuário**. Entre eles, estão assistentes corporativos com IA generativa, soluções de monitoramento e eficiência operacional com IoT e cloud, automação de triagem de documentos e plataformas voltadas à análise de informações e apoio à tomada de decisão.
 
 Também construí uma marca digital com mais de **100 mil seguidores**, utilizando dados de alcance, engajamento e retenção para orientar decisões de conteúdo e crescimento. Minha formação como **Aspirante a Oficial da Arma de Comunicações do Exército Brasileiro** fortaleceu competências como liderança, disciplina, comunicação, trabalho em equipe e tomada de decisão sob pressão.
 
@@ -20,7 +20,7 @@ Também construí uma marca digital com mais de **100 mil seguidores**, utilizan
 
 ### Elo — Estagiário de Consultoria | IA Aplicada, Agentes de IA e Dados
 
-**Início previsto: setembro de 2026**
+**Desde setembro de 2026**
 
 Atividades previstas no contrato:
 - Catalogar casos de uso de IA em projetos de consultoria.
@@ -32,6 +32,7 @@ Atividades previstas no contrato:
 | Projeto | Problema e solução | Tecnologias |
 |---|---|---|
 | **[LifeBox — Transporte Inteligente de Órgãos](https://github.com/sandrozdb/lifebox-smart-organ-transport)** | Monitoramento e rastreabilidade do transporte de órgãos, com telemetria, alertas, dashboard e otimização de rotas. | Node.js, Express, MySQL, IoT, Pesquisa Operacional |
+| **[CorpAI — Assistente Corporativo Inteligente](https://github.com/sandrozdb/corpai-assistente-corporativo-ia)** | Assistente corporativo com IA Generativa para classificar, redigir e revisar comunicações, com aprovação humana em cenários de maior risco. | n8n, Gemini, IA Generativa, Prompt Engineering, Human in the Loop |
 | **[EasyFood — API de Restaurantes](https://github.com/sandrozdb/easyfood-api)** | Aplicação para consulta e cadastro de restaurantes, com evolução arquitetural documentada por ADRs. | Node.js, Express, Prisma ORM, MySQL |
 | **[Automação de Triagem de Notas Fiscais](https://github.com/sandrozdb/automacao-triagem-notas-fiscais-n8n-ocr)** | Workflow de recebimento, leitura, validação e direcionamento de documentos fiscais. | n8n, OCR, Python, SQL |
 | **[Vitrine de Carreira](https://github.com/sandrozdb/vitrine-de-carreira)** | Diagnóstico profissional que transforma informações de carreira em recomendações práticas. | HTML, CSS, JavaScript, UX |
@@ -54,7 +55,7 @@ Atividades previstas no contrato:
 | Área | Tecnologias |
 |---|---|
 | **Dados e análise** | Python, SQL, MySQL, Excel, Power BI |
-| **IA e automação** | IA generativa, LLMs, agentes de IA, prompt engineering, n8n, OCR, APIs |
+| **IA e automação** | IA generativa, LLMs, agentes de IA, Gemini, prompt engineering, Human in the Loop, n8n, OCR, APIs |
 | **Desenvolvimento** | Node.js, Express, Prisma ORM, JavaScript, Java, C++ |
 | **Cloud, IoT e infraestrutura** | OCI/Cloud, ESP32, ThingSpeak, redes TCP/IP, virtualização |
 | **Métodos e qualidade** | Git, GitHub Actions, testes automatizados, documentação, ADRs |
