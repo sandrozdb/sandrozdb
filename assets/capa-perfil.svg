@@ -1,63 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="440" viewBox="0 0 1600 440" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
   <title id="title">Sandro Ferreira</title>
   <desc id="desc">Consultoria, inteligência artificial, dados e automação</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#021814"/>
-      <stop offset="0.55" stop-color="#03231D"/>
-      <stop offset="1" stop-color="#0A2216"/>
-    </linearGradient>
-    <linearGradient id="loop" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#11CDB7"/>
-      <stop offset="0.34" stop-color="#4E7BFF"/>
-      <stop offset="0.68" stop-color="#9B46E6"/>
-      <stop offset="1" stop-color="#F04B44"/>
-    </linearGradient>
-    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#10CDB5"/>
-      <stop offset="0.45" stop-color="#FFD400"/>
-      <stop offset="0.72" stop-color="#F04B44"/>
-      <stop offset="1" stop-color="#9B46E6"/>
-    </linearGradient>
-    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
-      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="#18A890" stroke-width="1" opacity="0.10"/>
-    </pattern>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="18"/>
-    </filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#021713"/><stop offset="0.55" stop-color="#03231D"/><stop offset="1" stop-color="#081D15"/></linearGradient>
+    <linearGradient id="elo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#13D0B8"/><stop offset="0.32" stop-color="#23B889"/><stop offset="0.56" stop-color="#FFD21A"/><stop offset="0.78" stop-color="#F04444"/><stop offset="1" stop-color="#8D47E9"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#13D0B8"/><stop offset="0.42" stop-color="#FFD21A"/><stop offset="0.7" stop-color="#F04444"/><stop offset="1" stop-color="#8D47E9"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#18A890" stroke-width="1" opacity="0.11"/></pattern>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="32"/></filter>
   </defs>
-
-  <rect width="1600" height="440" rx="30" fill="url(#bg)"/>
-  <rect width="1600" height="440" rx="30" fill="url(#grid)"/>
-  <circle cx="1325" cy="80" r="170" fill="#FFD400" opacity="0.08" filter="url(#glow)"/>
-  <circle cx="1190" cy="360" r="220" fill="#00CDB4" opacity="0.08" filter="url(#glow)"/>
-
-  <g transform="translate(92 62)">
-    <rect x="0" y="0" width="58" height="6" rx="3" fill="#FFD400"/>
-    <text x="0" y="42" fill="#17D8C1" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="4">CONSULTORIA • IA • DADOS • AUTOMAÇÃO</text>
-
-    <text x="0" y="145" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="800">Sandro</text>
-    <text x="0" y="232" fill="#FFD400" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="800">Ferreira</text>
-
-    <text x="2" y="287" fill="#EAF4F1" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="400">Tecnologia aplicada a problemas reais de negócio.</text>
-
-    <g transform="translate(2 326)">
-      <rect x="0" y="0" width="320" height="3" rx="1.5" fill="url(#bar)"/>
-      <text x="0" y="34" fill="#8FAAA3" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" letter-spacing="2">sandrozdb.com</text>
-    </g>
+  <rect width="1600" height="520" rx="28" fill="url(#bg)"/>
+  <rect width="1600" height="520" rx="28" fill="url(#grid)"/>
+  <circle cx="150" cy="70" r="170" fill="#FFD21A" opacity="0.06" filter="url(#blur)"/>
+  <circle cx="1370" cy="415" r="220" fill="#10CDB5" opacity="0.07" filter="url(#blur)"/>
+  <g transform="translate(90 70)">
+    <rect x="0" y="0" width="60" height="6" rx="3" fill="#FFD21A"/>
+    <text x="0" y="42" fill="#18D6BE" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="4">CONSULTORIA • IA • DADOS • AUTOMAÇÃO</text>
+    <text x="0" y="145" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="94" font-weight="800">Sandro</text>
+    <text x="0" y="230" fill="#13D0B8" font-family="Arial, Helvetica, sans-serif" font-size="94" font-weight="800">Ferreira</text>
+    <text x="2" y="278" fill="#E5F1EE" font-family="Arial, Helvetica, sans-serif" font-size="26">Tecnologia com visão de negócio.</text>
+    <rect x="0" y="303" width="315" height="3" rx="2" fill="url(#bar)"/>
+    <text x="0" y="338" fill="#8EAAA3" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" letter-spacing="2">sandrozdb.com</text>
   </g>
-
-  <g transform="translate(1130 30)" opacity="0.98">
-    <path d="M 80 20 H 310 Q 370 20 370 80 V 155" fill="none" stroke="#FFD400" stroke-width="54" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 20 210 V 165 Q 20 95 90 95 H 205" fill="none" stroke="#0AC8AF" stroke-width="54" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 215 395 H 305 Q 370 395 370 330 V 220" fill="none" stroke="url(#loop)" stroke-width="54" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="130" cy="320" r="78" fill="none" stroke="url(#loop)" stroke-width="46"/>
+  <g transform="translate(720 118)">
+    <line x1="0" y1="0" x2="0" y2="205" stroke="#91B4AC" stroke-width="1.5" opacity="0.55"/>
+    <text x="38" y="18" fill="#A8C1BB" font-family="Arial, Helvetica, sans-serif" font-size="22">Transformando</text>
+    <text x="38" y="51" fill="#A8C1BB" font-family="Arial, Helvetica, sans-serif" font-size="22">dados, automação</text>
+    <text x="38" y="84" fill="#A8C1BB" font-family="Arial, Helvetica, sans-serif" font-size="22">e inteligência artificial</text>
+    <text x="38" y="123" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">em soluções reais</text>
+    <text x="38" y="158" fill="#A8C1BB" font-family="Arial, Helvetica, sans-serif" font-size="22">para pessoas, negócios</text>
+    <text x="38" y="191" fill="#A8C1BB" font-family="Arial, Helvetica, sans-serif" font-size="22">e sociedade.</text>
   </g>
-
-  <g transform="translate(1260 185)">
-    <rect x="0" y="0" width="130" height="82" rx="22" fill="#031E19" stroke="#16CDB6" stroke-width="2"/>
-    <text x="65" y="52" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="800">SF</text>
+  <g transform="translate(1115 20)">
+    <path d="M40 210V160Q40 95 105 95H260" fill="none" stroke="#10CDB5" stroke-width="54" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M145 35H330Q385 35 385 90V165" fill="none" stroke="#FFD21A" stroke-width="54" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M245 475H325Q385 475 385 415V300" fill="none" stroke="url(#elo)" stroke-width="54" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="150" cy="388" r="74" fill="none" stroke="url(#elo)" stroke-width="44"/>
   </g>
-
-  <text x="1190" y="408" fill="#72968E" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3">VISÃO DE NEGÓCIO • TECNOLOGIA • RESULTADOS</text>
+  <g transform="translate(1360 112)">
+    <text x="0" y="0" fill="#B2C6C1" font-family="Georgia, serif" font-size="22" font-style="italic">feito por pessoas</text>
+    <path d="M8 18Q72 2 140 18" fill="none" stroke="#FFD21A" stroke-width="3"/>
+    <text x="0" y="50" fill="#B2C6C1" font-family="Georgia, serif" font-size="22" font-style="italic">para pessoas</text>
+  </g>
+  <g transform="translate(90 405)" font-family="Arial, Helvetica, sans-serif">
+    <g><circle cx="13" cy="13" r="11" fill="none" stroke="#13D0B8" stroke-width="2"/><text x="36" y="8" fill="#FFFFFF" font-size="16" font-weight="700">Inteligência</text><text x="36" y="29" fill="#A7BDB7" font-size="15">Artificial</text></g>
+    <line x1="196" y1="-2" x2="196" y2="36" stroke="#2A6B60"/>
+    <g transform="translate(230 0)"><rect x="0" y="9" width="24" height="16" rx="3" fill="none" stroke="#13D0B8" stroke-width="2"/><text x="38" y="8" fill="#FFFFFF" font-size="16" font-weight="700">Dados</text><text x="38" y="29" fill="#A7BDB7" font-size="15">&amp; Analytics</text></g>
+    <line x1="420" y1="-2" x2="420" y2="36" stroke="#2A6B60"/>
+    <g transform="translate(454 0)"><circle cx="13" cy="13" r="10" fill="none" stroke="#13D0B8" stroke-width="2"/><text x="38" y="8" fill="#FFFFFF" font-size="16" font-weight="700">Automação</text><text x="38" y="29" fill="#A7BDB7" font-size="15">de Processos</text></g>
+    <line x1="660" y1="-2" x2="660" y2="36" stroke="#2A6B60"/>
+    <g transform="translate(694 0)"><path d="M1 22Q1 8 13 8Q16 0 25 5Q34 6 34 17Q41 18 41 25H4Q1 25 1 22Z" fill="none" stroke="#13D0B8" stroke-width="2"/><text x="54" y="8" fill="#FFFFFF" font-size="16" font-weight="700">Cloud</text><text x="54" y="29" fill="#A7BDB7" font-size="15">&amp; Infraestrutura</text></g>
+    <line x1="930" y1="-2" x2="930" y2="36" stroke="#2A6B60"/>
+    <g transform="translate(964 0)"><circle cx="12" cy="13" r="4" fill="#13D0B8"/><circle cx="31" cy="4" r="4" fill="#13D0B8"/><circle cx="31" cy="24" r="4" fill="#13D0B8"/><path d="M15 11L28 6M15 15L28 22" stroke="#13D0B8" stroke-width="2"/><text x="53" y="8" fill="#FFFFFF" font-size="16" font-weight="700">IoT</text><text x="53" y="29" fill="#A7BDB7" font-size="15">&amp; Hardware</text></g>
+    <line x1="1140" y1="-2" x2="1140" y2="36" stroke="#2A6B60"/>
+    <g transform="translate(1174 0)"><circle cx="10" cy="9" r="6" fill="none" stroke="#13D0B8" stroke-width="2"/><circle cx="28" cy="9" r="6" fill="none" stroke="#13D0B8" stroke-width="2"/><path d="M0 29Q3 18 10 18Q17 18 20 29M18 29Q21 18 28 18Q35 18 38 29" fill="none" stroke="#13D0B8" stroke-width="2"/><text x="52" y="8" fill="#FFFFFF" font-size="16" font-weight="700">Consultoria</text><text x="52" y="29" fill="#A7BDB7" font-size="15">&amp; Estratégia</text></g>
+  </g>
+  <text x="1320" y="500" fill="#738F88" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="4">APRENDER • CONSTRUIR • IMPACTAR</text>
 </svg>
