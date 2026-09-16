@@ -20,7 +20,7 @@ Também construí uma marca digital com mais de **100 mil seguidores**, utilizan
 
 ### Elo — Estagiário de Consultoria | IA Aplicada, Agentes de IA e Dados
 
-**Desde setembro de 2026**
+**Setembro 2026 - Atual**
 
 Atuação em projetos de consultoria com foco em inteligência artificial aplicada, apoiando atividades como:
 - catalogação de casos de uso de IA em projetos de consultoria;
