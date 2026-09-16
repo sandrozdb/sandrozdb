@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/capa-perfil-fast.png" alt="Sandro Ferreira — Consultoria, Dados, IA e Automação" width="100%">
+  <img src="assets/capa-perfil.svg" alt="Sandro Ferreira — Consultoria, IA, Dados e Automação" width="100%">
 </p>
 
 <p align="center">
@@ -10,11 +10,11 @@
 
 ## Sobre mim
 
-Sou estudante de **Engenharia da Computação** e **Inteligência Artificial e Automação Digital**, com foco em utilizar dados, automação e tecnologia para resolver problemas reais de negócio.
+Sou **Estagiário de Consultoria na Elo** e estudante de **Engenharia da Computação** e **Inteligência Artificial e Automação Digital**. Meu foco é conectar **inteligência artificial aplicada, dados e automação** à resolução de problemas reais de negócio.
 
-Desenvolvo projetos que conectam **análise de dados, inteligência artificial, automação de processos e experiência do usuário**. Entre eles, estão assistentes corporativos com IA generativa, soluções de monitoramento e eficiência operacional com IoT e cloud, automação de triagem de documentos e plataformas voltadas à análise de informações e apoio à tomada de decisão.
+Desenvolvo projetos que combinam **análise de dados, agentes de IA, automação de processos, cloud, IoT e experiência do usuário**. Entre eles, estão assistentes corporativos com IA generativa, soluções de monitoramento e eficiência operacional, automação de triagem de documentos e plataformas voltadas à análise de informações e apoio à tomada de decisão.
 
-Também construí uma marca digital com mais de **100 mil seguidores**, utilizando dados de alcance, engajamento e retenção para orientar decisões de conteúdo e crescimento. Minha formação como **Aspirante a Oficial da Arma de Comunicações do Exército Brasileiro** fortaleceu competências como liderança, disciplina, comunicação, trabalho em equipe e tomada de decisão sob pressão.
+Também construí uma marca digital com mais de **100 mil seguidores**, utilizando métricas de alcance, engajamento e retenção para orientar decisões de conteúdo e crescimento. Minha formação como **Aspirante a Oficial da Arma de Comunicações do Exército Brasileiro** fortaleceu competências como liderança, disciplina, comunicação, trabalho em equipe e tomada de decisão sob pressão.
 
 ## Experiência atual
 
@@ -22,10 +22,10 @@ Também construí uma marca digital com mais de **100 mil seguidores**, utilizan
 
 **Desde setembro de 2026**
 
-Atividades previstas no contrato:
-- Catalogar casos de uso de IA em projetos de consultoria.
-- Testar prompts e agentes para acelerar análises.
-- Aplicar IA em materiais e entregas reais do time.
+Atuação em projetos de consultoria com foco em inteligência artificial aplicada, apoiando atividades como:
+- catalogação de casos de uso de IA em projetos de consultoria;
+- testes de prompts e agentes para acelerar análises;
+- aplicação de IA em materiais e entregas reais do time.
 
 ## Projetos em destaque
 
@@ -48,7 +48,7 @@ Atividades previstas no contrato:
 - **[Sistema Inteligente de Gestão de Agendamentos](https://github.com/sandrozdb/sistema-inteligente-gestao-agendamentos):** aplicação em Python e MySQL com validação de horários e prevenção de conflitos.
 - **[Ecologic PC — Virtualização e Segurança](https://github.com/sandrozdb/ecologic-pc-virtualizacao-seguranca):** reaproveitamento de hardware, virtualização, redes e segurança em um casemod sustentável.
 - **[Infraestrutura de Rede Virtualizada em Cloud](https://github.com/sandrozdb/infraestrutura-rede-virtualizada-cloud):** integração de computadores, servidor virtualizado, conectividade e administração de rede.
-- **[Portfólio Profissional](https://github.com/sandrozdb/portfolio-sandro-ferreira):** plataforma em Next.js que reúne minha trajetória, projetos e competências.
+- **[Portfólio Profissional](https://github.com/sandrozdb/portfolio-sandro-ferreira):** plataforma em Next.js que reúne minha trajetória, projetos, competências e currículo.
 
 ## Tecnologias e ferramentas
 
@@ -60,7 +60,7 @@ Atividades previstas no contrato:
 | **Cloud, IoT e infraestrutura** | OCI/Cloud, ESP32, ThingSpeak, redes TCP/IP, virtualização |
 | **Métodos e qualidade** | Git, GitHub Actions, testes automatizados, documentação, ADRs |
 
-## Formação complementar
+## Certificações selecionadas
 
 - Oracle OCI 2026 AI Foundations Associate
 - Cisco Data Science Essentials with Python
@@ -72,7 +72,7 @@ Atividades previstas no contrato:
 
 ## Vamos conversar?
 
-Direciono minha carreira para **consultoria, inteligência artificial, automação e dados**, conectando tecnologia a problemas reais de negócio.
+Atualmente, meu foco está em evoluir em **consultoria, IA aplicada, automação e dados**, conectando tecnologia a problemas reais de negócio e construindo soluções que gerem resultado.
 
 <p align="center">
   <a href="https://linkedin.com/in/sandrozdb">LinkedIn</a> •
