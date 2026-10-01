@@ -4,49 +4,48 @@
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#05090d"/>
-      <stop offset="0.55" stop-color="#07131c"/>
-      <stop offset="1" stop-color="#0b1b27"/>
+      <stop offset="0.55" stop-color="#0a1118"/>
+      <stop offset="1" stop-color="#0e1720"/>
     </linearGradient>
     <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
-      <path d="M 56 0 L 0 0 0 56" fill="none" stroke="#55bde8" stroke-width="1" opacity="0.10"/>
+      <path d="M56 0H0V56" fill="none" stroke="#55bde8" stroke-width="1" opacity="0.08"/>
     </pattern>
-    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#55bde8"/>
-      <stop offset="1" stop-color="#60a5fa"/>
-    </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#1486b8"/>
-      <stop offset="1" stop-color="#7dd3fc"/>
+      <stop offset="0" stop-color="#55bde8"/>
+      <stop offset="1" stop-color="#1486b8"/>
     </linearGradient>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="18"/>
+      <feGaussianBlur stdDeviation="20"/>
     </filter>
   </defs>
 
   <rect width="1600" height="440" rx="28" fill="url(#bg)"/>
   <rect width="1600" height="440" rx="28" fill="url(#grid)"/>
-  <circle cx="1470" cy="40" r="180" fill="#1486b8" opacity="0.16" filter="url(#glow)"/>
+  <circle cx="1450" cy="30" r="210" fill="#55bde8" opacity="0.10" filter="url(#glow)"/>
 
   <g transform="translate(84 58)">
     <rect x="0" y="0" width="58" height="6" rx="3" fill="#55bde8"/>
-    <text x="0" y="30" fill="#7dd3fc" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="3">CONSULTORIA • IA • DADOS • AUTOMAÇÃO</text>
+    <text x="0" y="30" fill="#55bde8" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="3">CONSULTORIA • IA • DADOS • AUTOMAÇÃO</text>
 
-    <text x="0" y="118" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="800">Sandro</text>
-    <text x="0" y="210" fill="url(#name)" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="800">Ferreira</text>
+    <text x="0" y="118" fill="#f4f8fb" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="800">Sandro</text>
+    <text x="0" y="210" fill="#55bde8" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="800">Ferreira</text>
 
-    <text x="0" y="272" fill="#d9e5ec" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500">Consultoria  •  IA  •  Dados  •  Automação</text>
+    <text x="0" y="272" fill="#9aaab7" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500">Consultoria  •  IA  •  Dados  •  Automação</text>
     <text x="0" y="342" fill="#f4f8fb" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="500">Tecnologia com visão de negócio.</text>
 
     <g transform="translate(0 375)">
       <rect x="0" y="0" width="126" height="7" rx="3.5" fill="url(#accent)"/>
-      <text x="0" y="48" fill="#aab8c4" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" letter-spacing="5">sandrozdb.com</text>
+      <text x="0" y="48" fill="#9aaab7" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" letter-spacing="5">sandrozdb.com</text>
     </g>
   </g>
 
-  <g transform="translate(1090 72)" opacity="0.95">
-    <rect x="0" y="0" width="360" height="255" rx="34" fill="none" stroke="#55bde8" stroke-width="2" opacity="0.42"/>
-    <rect x="34" y="34" width="292" height="187" rx="24" fill="none" stroke="#60a5fa" stroke-width="2" opacity="0.34"/>
-    <circle cx="292" cy="64" r="10" fill="#7dd3fc"/>
-    <path d="M55 178 C115 105 175 218 300 112" fill="none" stroke="url(#accent)" stroke-width="10" stroke-linecap="round"/>
+  <g transform="translate(1080 70)">
+    <rect x="0" y="0" width="370" height="260" rx="36" fill="#0a1118" stroke="#55bde8" stroke-width="2" opacity="0.92"/>
+    <path d="M45 194 C112 112 171 220 315 104" fill="none" stroke="url(#accent)" stroke-width="11" stroke-linecap="round"/>
+    <circle cx="45" cy="194" r="8" fill="#55bde8"/>
+    <circle cx="177" cy="151" r="8" fill="#55bde8"/>
+    <circle cx="315" cy="104" r="8" fill="#1486b8"/>
+    <path d="M44 56H326" stroke="#55bde8" opacity="0.17"/>
+    <path d="M44 92H326" stroke="#55bde8" opacity="0.10"/>
   </g>
 </svg>
