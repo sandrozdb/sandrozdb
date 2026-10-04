@@ -10,50 +10,51 @@
 
 ## Sobre mim
 
-Sou estudante de **Engenharia da Computação** e **Inteligência Artificial e Automação Digital**, com foco em aplicar **IA, dados e automação** para entender problemas, melhorar processos e apoiar decisões de negócio.
+Sou **Estagiário de Consultoria na Elo** e estudante de **Engenharia da Computação** e de **Inteligência Artificial e Automação Digital**, com foco em aplicar **IA, dados e automação** na resolução de problemas reais de negócio.
 
-Construo projetos que conectam **agentes de IA, análise de dados, automação de processos, cloud e IoT**. Também desenvolvi uma marca digital com mais de **100 mil seguidores**, experiência que reforçou minha capacidade de analisar métricas, comunicar ideias e transformar dados em decisões práticas.
+Na consultoria, atuo apoiando a **estruturação de problemas, análise de informações, identificação de casos de uso de IA, experimentação com prompts e agentes de IA e construção de materiais executivos**.
 
-Minha formação como **Aspirante a Oficial da Arma de Comunicações do Exército Brasileiro** contribuiu para competências como liderança, disciplina, comunicação, trabalho em equipe e tomada de decisão sob pressão.
+Minha trajetória combina tecnologia, análise de dados, infraestrutura, liderança e comunicação. Também construí uma marca digital com mais de **100 mil seguidores**, utilizando métricas de alcance, engajamento e retenção para orientar decisões de conteúdo e crescimento.
 
-## Áreas de interesse
+Minha formação como **Aspirante a Oficial da Arma de Comunicações do Exército Brasileiro** fortaleceu competências como liderança, disciplina, comunicação, trabalho em equipe e tomada de decisão.
 
-- inteligência artificial aplicada a negócios;
-- agentes de IA e automação de processos;
-- análise de dados e indicadores;
-- consultoria e transformação digital;
-- cloud, IoT e integração de sistemas.
+## Foco profissional
+
+**Consultoria • Inteligência Artificial • Dados • Automação**
+
+Busco conectar visão de negócio e capacidade técnica para **estruturar problemas, melhorar processos, apoiar decisões e gerar valor com tecnologia**.
 
 ## Projetos em destaque
 
 | Projeto | Problema e solução | Tecnologias |
 |---|---|---|
-| **[LifeBox — Transporte Inteligente de Órgãos](https://github.com/sandrozdb/lifebox-smart-organ-transport)** | Monitoramento e rastreabilidade do transporte de órgãos,  com telemetria, alertas, dashboard e otimização de rotas. | Node.js, Express, MySQL, IoT, Pesquisa Operacional |
-| **[CorpAI — Assistente Corporativo Inteligente](https://github.com/sandrozdb/corpai-assistente-corporativo-ia)** | Assistente corporativo com IA generativa para classificar, redigir e revisar comunicações, com aprovação humana em cenários de maior risco. | n8n, Gemini, IA Generativa, Prompt Engineering, Human in the Loop |
-| **[EasyFood — API de Restaurantes](https://github.com/sandrozdb/easyfood-api)** | Aplicação para consulta e cadastro de restaurantes, com evolução arquitetural documentada por ADRs. | Node.js, Express, Prisma ORM, MySQL |
-| **[Recommendation Lab — Simulador de Recomendações](https://github.com/sandrozdb/recommendation-algorithm-simulator)** | Simulador interativo que mostra como sinais de comportamento alteram o perfil, os scores e o ranking, com personalização e explicações visuais. | JavaScript, HTML, CSS, Node.js, GitHub Actions |
-| **[Automação de Triagem de Notas Fiscais](https://github.com/sandrozdb/automacao-triagem-notas-fiscais-n8n-ocr)** | Simulação demonstrativa de triagem de notas fiscais com n8n, dados fictícios de OCR, validação e notificações. | n8n, OCR, Python, SQL |
-| **[Vitrine de Carreira](https://github.com/sandrozdb/vitrine-de-carreira)** | Diagnóstico profissional que transforma informações de carreira em recomendações práticas. | HTML, CSS, JavaScript, UX |
+| **[LifeBox — Transporte Inteligente de Órgãos](https://github.com/sandrozdb/lifebox-smart-organ-transport)** | Sistema acadêmico de monitoramento, rastreabilidade e apoio à decisão no transporte de órgãos, com IoT, telemetria, alertas e otimização de rotas. | Node.js, Express, MySQL, IoT, Pesquisa Operacional |
+| **[CorpAI — Assistente Corporativo Inteligente](https://github.com/sandrozdb/corpai-assistente-corporativo-ia)** | Assistente corporativo com IA generativa para classificar, redigir e revisar comunicações, com Human in the Loop em cenários de maior risco. | n8n, Gemini, IA Generativa, Prompt Engineering, Human in the Loop |
+| **[EasyFood — API de Restaurantes](https://github.com/sandrozdb/easyfood-api)** | Aplicação para consulta e cadastro de restaurantes, com arquitetura modular, validação, persistência em MySQL e decisões documentadas em ADRs. | Node.js, Express, Prisma ORM, MySQL |
+| **[Recommendation Lab — Simulador de Recomendações](https://github.com/sandrozdb/recommendation-algorithm-simulator)** | Simulador interativo que mostra como sinais comportamentais alteram perfil inferido, scores e ranking de recomendações. | JavaScript, HTML, CSS, Node.js, GitHub Actions |
+| **[Automação de Triagem de Notas Fiscais](https://github.com/sandrozdb/automacao-triagem-notas-fiscais-n8n-ocr)** | Pipeline demonstrativo para recebimento, leitura, validação e direcionamento de documentos fiscais. | n8n, OCR, Python, SQL |
+| **[Vitrine de Carreira](https://github.com/sandrozdb/vitrine-de-carreira)** | Plataforma de diagnóstico e posicionamento profissional que transforma informações de carreira em recomendações práticas. | HTML, CSS, JavaScript, UX |
 
 <p align="center">
   <a href="https://sandrozdb.com"><strong>Ver portfólio completo →</strong></a>
 </p>
 
-## Tecnologias e ferramentas
+## Competências
 
-| Área | Tecnologias |
+| Área | Competências e tecnologias |
 |---|---|
-| **IA e automação** | IA generativa, LLMs, agentes de IA, Gemini, prompt engineering, Human in the Loop, n8n, OCR, APIs |
-| **Dados e análise** | Python, SQL, MySQL, Excel, Power BI |
-| **Desenvolvimento** | Node.js, Express, Prisma ORM, JavaScript, Java, C++ |
-| **Cloud, IoT e infraestrutura** | OCI, ESP32, ThingSpeak, redes TCP/IP, virtualização |
-| **Métodos e qualidade** | Git, GitHub Actions, testes automatizados, documentação, ADRs |
+| **Consultoria & Negócios** | Estruturação de problemas, análise de informações, storytelling, PowerPoint, Pesquisa Operacional, comunicação |
+| **Dados & Analytics** | Excel, Power BI, SQL, Python, Pandas, visualização de dados |
+| **IA & Automação** | IA Generativa, LLMs, Agentes de IA, Prompt Engineering, Microsoft Copilot, n8n, OCR, APIs |
+| **Tecnologia & Desenvolvimento** | Node.js, Express, Prisma ORM, JavaScript, MySQL, Git, GitHub |
+| **Cloud, Infra & IoT** | OCI, Linux, redes TCP/IP, ESP32, ThingSpeak, virtualização, segurança da informação |
 
 ## Formação
 
-- **Engenharia da Computação**
-- **Inteligência Artificial e Automação Digital**
-- **CPOR/SP — Arma de Comunicações**
+- **Engenharia da Computação — UniFECAF** · 2025–2028
+- **Inteligência Artificial e Automação Digital — UniFECAF** · 2026–2027
+- **Engenharia de Controle e Automação — IFSP** · 2022–2024
+- **CPOR/SP — Aspirante a Oficial da Arma de Comunicações** · 2023
 
 ## Certificações selecionadas
 
@@ -63,15 +64,16 @@ Minha formação como **Aspirante a Oficial da Arma de Comunicações do Exérci
 - Cisco Introduction to Modern AI
 - Python Essentials 1 e 2
 - Linux Essentials
+- Ethical Hacker
 - CCNAv7 Introduction to Networks
+- IBSEC Cyber Security Awareness
 
 ## Vamos conversar?
 
-Tenho interesse em **consultoria, IA aplicada, automação e dados**, sempre buscando conectar tecnologia a problemas reais de negócio e resultados mensuráveis.
+Tenho interesse em projetos e oportunidades que conectem **consultoria, inteligência artificial, dados e automação** a problemas reais de negócio.
 
 <p align="center">
   <a href="https://linkedin.com/in/sandrozdb">LinkedIn</a> •
   <a href="https://sandrozdb.com">Portfólio</a> •
-  <a href="mailto:sandrozdb@gmail.com">E-mail</a> •
-  <a href="https://instagram.com/sandrozdb">Instagram</a>
+  <a href="mailto:sandrozdb@gmail.com">E-mail</a>
 </p>
