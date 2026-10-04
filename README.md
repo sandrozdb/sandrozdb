@@ -28,7 +28,8 @@ Minha formação como **Aspirante a Oficial da Arma de Comunicações do Exérci
 
 | Projeto | Problema e solução | Tecnologias |
 |---|---|---|
-| **[LifeBox — Transporte Inteligente de Órgãos](https://github.com/sandrozdb/lifebox-smart-organ-transport)** | Monitoramento e rastreabilidade do transporte de órgãos, com telemetria, alertas, dashboard e otimização de rotas. | Node.js, Express, MySQL, IoT, Pesquisa Operacional |
+| **[Recommendation Lab — Simulador de Recomendações](https://github.com/sandrozdb/recommendation-algorithm-simulator)** | Simulador interativo que mostra como sinais de comportamento alteram o perfil, os scores e o ranking, com personalização e explicações visuais. | JavaScript, HTML, CSS, Node.js, GitHub Actions |
+| **[LifeBox — Transporte Inteligente de Órgãos](https://github.com/sandrozdb/lifebox-smart-organ-transport)** | Monitoramento e rastreabilidade do transporte de órgãos,  com telemetria, alertas, dashboard e otimização de rotas. | Node.js, Express, MySQL, IoT, Pesquisa Operacional |
 | **[CorpAI — Assistente Corporativo Inteligente](https://github.com/sandrozdb/corpai-assistente-corporativo-ia)** | Assistente corporativo com IA generativa para classificar, redigir e revisar comunicações, com aprovação humana em cenários de maior risco. | n8n, Gemini, IA Generativa, Prompt Engineering, Human in the Loop |
 | **[EasyFood — API de Restaurantes](https://github.com/sandrozdb/easyfood-api)** | Aplicação para consulta e cadastro de restaurantes, com evolução arquitetural documentada por ADRs. | Node.js, Express, Prisma ORM, MySQL |
 | **[Automação de Triagem de Notas Fiscais](https://github.com/sandrozdb/automacao-triagem-notas-fiscais-n8n-ocr)** | Workflow de recebimento, leitura, validação e direcionamento de documentos fiscais. | n8n, OCR, Python, SQL |
