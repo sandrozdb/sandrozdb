@@ -28,13 +28,12 @@ Minha formação como **Aspirante a Oficial da Arma de Comunicações do Exérci
 
 | Projeto | Problema e solução | Tecnologias |
 |---|---|---|
-| **[Recommendation Lab — Simulador de Recomendações](https://github.com/sandrozdb/recommendation-algorithm-simulator)** | Simulador interativo que mostra como sinais de comportamento alteram o perfil, os scores e o ranking, com personalização e explicações visuais. | JavaScript, HTML, CSS, Node.js, GitHub Actions |
 | **[LifeBox — Transporte Inteligente de Órgãos](https://github.com/sandrozdb/lifebox-smart-organ-transport)** | Monitoramento e rastreabilidade do transporte de órgãos,  com telemetria, alertas, dashboard e otimização de rotas. | Node.js, Express, MySQL, IoT, Pesquisa Operacional |
 | **[CorpAI — Assistente Corporativo Inteligente](https://github.com/sandrozdb/corpai-assistente-corporativo-ia)** | Assistente corporativo com IA generativa para classificar, redigir e revisar comunicações, com aprovação humana em cenários de maior risco. | n8n, Gemini, IA Generativa, Prompt Engineering, Human in the Loop |
 | **[EasyFood — API de Restaurantes](https://github.com/sandrozdb/easyfood-api)** | Aplicação para consulta e cadastro de restaurantes, com evolução arquitetural documentada por ADRs. | Node.js, Express, Prisma ORM, MySQL |
-| **[Automação de Triagem de Notas Fiscais](https://github.com/sandrozdb/automacao-triagem-notas-fiscais-n8n-ocr)** | Workflow de recebimento, leitura, validação e direcionamento de documentos fiscais. | n8n, OCR, Python, SQL |
+| **[Recommendation Lab — Simulador de Recomendações](https://github.com/sandrozdb/recommendation-algorithm-simulator)** | Simulador interativo que mostra como sinais de comportamento alteram o perfil, os scores e o ranking, com personalização e explicações visuais. | JavaScript, HTML, CSS, Node.js, GitHub Actions |
+| **[Automação de Triagem de Notas Fiscais](https://github.com/sandrozdb/automacao-triagem-notas-fiscais-n8n-ocr)** | Simulação demonstrativa de triagem de notas fiscais com n8n, dados fictícios de OCR, validação e notificações. | n8n, OCR, Python, SQL |
 | **[Vitrine de Carreira](https://github.com/sandrozdb/vitrine-de-carreira)** | Diagnóstico profissional que transforma informações de carreira em recomendações práticas. | HTML, CSS, JavaScript, UX |
-| **[Monitoramento Ambiental com ESP32](https://github.com/sandrozdb/sistema-iot-monitoramento-ambiental-esp32)** | Coleta de dados ambientais, alertas locais e envio de telemetria para a nuvem. | ESP32, C++, Wokwi, ThingSpeak |
 
 <p align="center">
   <a href="https://sandrozdb.com"><strong>Ver portfólio completo →</strong></a>
